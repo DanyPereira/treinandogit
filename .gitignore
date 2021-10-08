@@ -1,0 +1,20 @@
+
+# Criado por https://www.toptal.com/developers/gitignore/api/linux
+# Edite em https://www.toptal.com/developers/gitignore?templates=linux
+
+### Linux ###
+* ~
+
+# arquivos temporários que podem ser criados se um processo ainda tiver um identificador aberto de um arquivo excluído
+.fuse_hidden *
+
+# Preferências de diretório do KDE
+.diretório
+
+# Pasta de lixo do Linux que pode aparecer em qualquer partição ou disco
+.Lixo-*
+
+# .nfs arquivos são criados quando um arquivo aberto é removido, mas ainda está sendo acessado
+.nfs *
+
+# Fim de https://www.toptal.com/developers/gitignore/api/linux
